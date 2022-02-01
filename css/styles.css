@@ -223,6 +223,11 @@ img {
     grid-row: 1;
   }
 }
+/* Features Page */
+.features-head img {
+  width: 200px;
+  justify-self: flex-end;
+}
 
 /* Mobile */
 
